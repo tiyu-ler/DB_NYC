@@ -1,0 +1,42 @@
+[{
+  "_id": {
+    "$oid": "6653b286b5f044e0d2cdcdf8"
+  },
+  "Addresses": {
+    "$oid": "66536f6f1b1aae09e7a4aecf"
+  },
+  "hostName": "Judy",
+  "hostsResponseTime": {
+    "$date": "2018-04-14T22:00:00.000Z"
+  },
+  "hostsResponseRate": 4,
+  "hostsListingCount": 17
+},
+{
+  "_id": {
+    "$oid": "66587ba09369c950a6fe4d53"
+  },
+  "Addresses": {
+    "$oid": "6653735e1b1aae09e7a4aede"
+  },
+  "hostName": "Alex",
+  "hostsResponseTime": {
+    "$date": "2017-02-05T22:00:00.000Z"
+  },
+  "hostsResponseRate": 5,
+  "hostsListingCount": 24
+},
+{
+  "_id": {
+    "$oid": "66587c6f9369c950a6fe4d5f"
+  },
+  "Addresses": {
+    "$oid": "665373c11b1aae09e7a4aedf"
+  },
+  "hostName": "Zap",
+  "hostsResponseTime": {
+    "$date": "2020-10-10T22:00:00.000Z"
+  },
+  "hostsResponseRate": 4,
+  "hostsListingCount": 12
+}]

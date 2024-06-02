@@ -1,0 +1,121 @@
+[{
+  "_id": {
+    "$oid": "6659d7e322798f5c81678864"
+  },
+  "RoomTypes": {
+    "$oid": "665373e41b1aae09e7a4aee7"
+  },
+  "Hosts": {
+    "$oid": "6653b286b5f044e0d2cdcdf8"
+  },
+  "Addresses": {
+    "$oid": "66536f6f1b1aae09e7a4aecf"
+  },
+  "name": "cheap appartmans",
+  "guestIncluded": 1,
+  "price": 95.5,
+  "minimumNights": 3,
+  "aviability": 1,
+  "Amenities": [
+    {
+      "amenityName": "Rooftop Lounge"
+    },
+    {
+      "amenityName": "Year-round Pool"
+    },
+    {
+      "amenityName": "Pet-friendly"
+    },
+    {
+      "amenityName": "Coffee Station"
+    }
+  ],
+  "ListingPhotos": [
+    {
+      "photoURL": "/images/1.jpg",
+      "description": "Rooftop Lounge"
+    },
+    {
+      "photoURL": "/images/2.jpg",
+      "description": "Year-round Pool"
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "6659d97022798f5c81678868"
+  },
+  "RoomTypes": {
+    "$oid": "665373e71b1aae09e7a4aee8"
+  },
+  "Hosts": {
+    "$oid": "66587c6f9369c950a6fe4d5f"
+  },
+  "Addresses": {
+    "$oid": "665373c11b1aae09e7a4aedf"
+  },
+  "name": "Happy accomodation",
+  "guestIncluded": 2,
+  "price": 85.5,
+  "minimumNights": 1,
+  "aviability": 2,
+  "Amenities": [
+    {
+      "amenityName": "Pet-friendly"
+    },
+    {
+      "amenityName": "Coffee Station"
+    }
+  ],
+  "ListingPhotos": [
+    {
+      "photoURL": "/images/3.jpg",
+      "description": "Kitchen"
+    },
+    {
+      "photoURL": "/images/4.jpg",
+      "description": "Bedroom"
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "6659f5cd22798f5c8167889c"
+  },
+  "RoomTypes": {
+    "$oid": "665373e71b1aae09e7a4aee8"
+  },
+  "Hosts": {
+    "$oid": "66587c6f9369c950a6fe4d5f"
+  },
+  "Addresses": {
+    "$oid": "665373c11b1aae09e7a4aedf"
+  },
+  "name": "Happy accomodation",
+  "guestIncluded": 2,
+  "price": 72.5,
+  "minimumNights": 1,
+  "aviability": 2,
+  "Amenities": [
+    {
+      "amenityName": "Comfy bedroom"
+    },
+    {
+      "amenityName": "Coffee Station"
+    }
+  ],
+  "ListingPhotos": [
+    {
+      "photoURL": "/images/5.jpg",
+      "description": "Balcony"
+    },
+    {
+      "photoURL": "/images/6.jpg",
+      "description": "Bedroom"
+    },
+    {
+      "photoURL": "/images/7.jpg",
+      "description": "Living room"
+    }
+  ]
+}]

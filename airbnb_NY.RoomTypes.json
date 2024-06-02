@@ -1,0 +1,21 @@
+[{
+  "_id": {
+    "$oid": "665373e41b1aae09e7a4aee7"
+  },
+  "roomType_name": "Appartman",
+  "description": "Good for whole family"
+},
+{
+  "_id": {
+    "$oid": "665373e71b1aae09e7a4aee8"
+  },
+  "roomType_name": "Room",
+  "description": "Single or Couple accomodation"
+},
+{
+  "_id": {
+    "$oid": "665373e91b1aae09e7a4aee9"
+  },
+  "roomType_name": "House",
+  "description": "Big and comfort accomodation"
+}]

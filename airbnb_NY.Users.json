@@ -1,0 +1,42 @@
+[{
+  "_id": {
+    "$oid": "66536bc31b1aae09e7a4aeac"
+  },
+  "first_name": "Julia",
+  "last_name": "Kator",
+  "birth_date": {
+    "$date": "2000-02-15T16:54:40.000Z"
+  },
+  "age": 24,
+  "gender": "M",
+  "phone": "+421950632567",
+  "email": "JKlp@gmail.com"
+},
+{
+  "_id": {
+    "$oid": "66536e7e1b1aae09e7a4aeca"
+  },
+  "first_name": "Sam",
+  "last_name": "Smit",
+  "birth_date": {
+    "$date": "2002-04-15T16:54:40.000Z"
+  },
+  "age": 22,
+  "gender": "M",
+  "phone": "+421950645732",
+  "email": "samsmith@gmail.com"
+},
+{
+  "_id": {
+    "$oid": "66536e891b1aae09e7a4aecb"
+  },
+  "first_name": "Max",
+  "last_name": "Leks",
+  "birth_date": {
+    "$date": "1970-02-15T16:54:40.000Z"
+  },
+  "age": 53,
+  "gender": "M",
+  "phone": "+42195063332",
+  "email": "leks@gmail.com"
+}]

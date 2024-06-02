@@ -1,0 +1,42 @@
+[{
+  "_id": {
+    "$oid": "66536f6f1b1aae09e7a4aecf"
+  },
+  "street": "Penn Dr. 26",
+  "latitude": 40.13061,
+  "longitude": -73.135242,
+  "postal_code": "64846",
+  "city": "NewYork",
+  "country": "USA",
+  "state": "NewYork",
+  "Neighborrhood": "Upper East Side",
+  "Boroughs": "Manhattan"
+},
+{
+  "_id": {
+    "$oid": "6653735e1b1aae09e7a4aede"
+  },
+  "street": "Crescent Lane 400",
+  "latitude": 40.315276,
+  "longitude": -73.498265,
+  "postal_code": "64851",
+  "city": "NewYork",
+  "country": "USA",
+  "state": "NewYork",
+  "Neighborrhood": "Harlem",
+  "Boroughs": "Manhattan"
+},
+{
+  "_id": {
+    "$oid": "665373c11b1aae09e7a4aedf"
+  },
+  "street": "North Valley View St. 78",
+  "latitude": 40.215692,
+  "longitude": -73.238184,
+  "postal_code": "64846",
+  "city": "NewYork",
+  "country": "USA",
+  "state": "NewYork",
+  "Neighborrhood": "Chinatown",
+  "Boroughs": "Manhattan"
+}]
